@@ -2,8 +2,6 @@
 
 ## Free AI Tools to help with productivity
 
-<a class="twitter-follow-button" href="https://twitter.com/oliver_thedev" data-size="large"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/oliver_thedev?style=social"></a> __ ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVnu25YagvhzU8asHdV_usA?style=social)
-
 # ChatBot
 
 | Name | Title | Description |
